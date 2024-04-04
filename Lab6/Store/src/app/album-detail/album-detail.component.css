@@ -27,7 +27,7 @@
 
 .rename-button {
   padding: 5px 10px;
-  background-color: #007bff;
+  background-color: #ffbb00;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -38,7 +38,7 @@
 .photos-link {
   margin-top: 10px;
   padding: 5px 10px;
-  background-color: #007bff;
+  background-color: #e99b0b;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -49,7 +49,7 @@
 
 .return-button:hover,
 .photos-link:hover {
-  background-color: #0056b3;
+  background-color: #ca9709;
 }
 
 .loading {

@@ -30,15 +30,15 @@ a {
   padding: 10px;
   padding-top: 2px;
   text-decoration: none;
-  background-color: #007bff;
+  background-color: #e49219e3;
   color: #ffffff;
-  border: 1px solid #007bff;
+  border: 1px solid #ee8c0b;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 a:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
+  background-color: #d48c1e;
+  border-color: #d1930c;
 }
